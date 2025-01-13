@@ -48,7 +48,7 @@
 
 ###
 
-<img align="center" height="300" src="https://media.giphy.com/media/4U9hdEqYzOxXC/giphy.gif" alt="Nyan Cat GIF" />
+<img align="center" height="300" src="https://media.giphy.com/media/4U9hdEqYzOxXC/giphy.gif](https://tenor.com/pt-BR/view/nyan-cat-nyan-cat-sticker-dm4uz3-gif-21050281" alt="Nyan Cat GIF" />
 
 ###
 
