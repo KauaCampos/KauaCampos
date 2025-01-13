@@ -47,12 +47,10 @@
 </div>
 
 ###
-
-<img align="center" height="300" src="https://media.giphy.com/media/4U9hdEqYzOxXC/giphy.gif](https://tenor.com/pt-BR/view/nyan-cat-nyan-cat-sticker-dm4uz3-gif-21050281" alt="Nyan Cat GIF" />
+<img align="center" height="480" src="https://media.giphy.com/media/22kxQ12cxyEww/giphy.gif" alt="Nyan Cat GIF" />
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KauaCampos/KauaCampos/output/snake.svg" alt="Snake animation" />
-
