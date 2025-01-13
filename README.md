@@ -48,10 +48,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="300" src="https://media.giphy.com/media/4U9hdEqYzOxXC/giphy.gif" alt="Nyan Cat GIF" />
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KauaCampos/KauaCampos/output/snake.svg" alt="Snake animation" />
+
