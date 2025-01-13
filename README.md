@@ -1,4 +1,5 @@
-<h2 align="left">Olá 👋! Meu nome é Kauã e eu sou estudante do Cefet-MG.</h2>
+<h2 align="left">Olá 👋! Meu nome é Kauã e eu sou estudante do segundo ano de Informática no Cefet-MG.</h2>
+<h1>Learning...</h1>
 
 ###
 
@@ -52,5 +53,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/KauaCampos/KauaCampos/output/snake.svg" alt="Snake animation" />
