@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KauaCampos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" height="480" src="https://media.giphy.com/media/22kxQ12cxyEww/giphy.gif" alt="Nyan Cat GIF" />
 </div>
 
 ###
@@ -45,9 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-<img align="center" height="480" src="https://media.giphy.com/media/22kxQ12cxyEww/giphy.gif" alt="Nyan Cat GIF" />
 
 ###
 
