@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Kauã e eu sou estudante do terceiro ano de Informática no Cefet-MG.</h2>
+<h2 align="left">Olá 👋! Meu nome é Kauã e eu sou formado no curso técnico de Informática pelo Cefet-MG e granduando em Sistemas de Informações pela UNINTER.</h2>
 <h3>Learning...</h3>
 
 ###
