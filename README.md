@@ -78,20 +78,6 @@ Atualmente focado em desenvolvimento web, algoritmos e construção de sistemas 
 - APIs com Spring Boot
 - Banco de Dados e Arquitetura de Sistemas
 
----
-
-<h2>📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KauaCampos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KauaCampos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <h2>🌐 Contato</h2>
 
 <div align="left">
