@@ -67,17 +67,6 @@ Atualmente focado em desenvolvimento web, algoritmos e construção de sistemas 
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KauaCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCampos&layout=compact&theme=tokyonight"
-    height="160"
-  />
-</div>
-
-<div align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com?user=KauaCampos&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
   />
 </div>
