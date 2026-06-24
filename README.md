@@ -139,7 +139,7 @@ timeline
     2022         : Inglês Avançado C1
                  : S.A.T. Uptime — 3 anos de curso
     2024         : SIGEPP — CEFET-MG
-                 : Sistema de gestão com Java Spring + PostgreSQL
+                 : Sistema de gestão com Java Spring + MySQL
                  : Curso de IA — Conquer Business School
     2025         : Prisma Software Factory — CEFET-MG
                  : TCC validado com React + Flask + PostgreSQL
