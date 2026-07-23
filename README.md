@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+FullStack%2FBackend+J%C3%BAnior+%F0%9F%9A%80;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+CEFET-MG+%F0%9F%8E%93;Graduando+em+ADS+%7C+PUC-MG+%F0%9F%92%BB;Ingl%C3%AAs+Avan%C3%A7ado+(C1)+%7C+Fluente+%F0%9F%8C%8E;Explorando+IA+%2B+LLMs+%2B+APIs+Inteligentes+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+FullStack%2FBackend+J%C3%BAnior+%F0%9F%9A%80;Est%C3%A1gio+em+Dev.+de+Software+%40+Prodemge+%F0%9F%92%BC;Graduando+em+ADS+%7C+PUC-MG+%F0%9F%92%BB;Ingl%C3%AAs+Avan%C3%A7ado+(C1)+%7C+Fluente+%F0%9F%8C%8E;Explorando+IA+%2B+LLMs+%2B+APIs+Inteligentes+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -40,6 +40,7 @@
 class KauaCampos:
     def __init__(self):
         self.nome        = "Kauã Magalhães Antunes Campos"
+        self.cargo_atual = "Estagiário de Desenvolvimento de Software @ Prodemge (GAC)"
         self.objetivo    = "Desenvolvedor FullStack/Backend Júnior 🚀"
         self.formacao    = [
             "Técnico em Informática @ CEFET-MG (concluído: Dez/2025)",
@@ -48,7 +49,7 @@ class KauaCampos:
         self.idiomas     = { "Português": "Nativo", "Inglês": "Fluente (C1)" }
         self.estudando   = [
             "Inteligência Artificial & LLMs",
-            "APIs de IA (OpenAI, Anthropic, Gemini)",
+            "APIs de IA (Claude, OpenAI, Gemini)",
             "n8n & automações com IA",
             "Arquitetura de Sistemas Escaláveis",
             "Estruturas de Dados e Algoritmos"
@@ -85,22 +86,34 @@ class KauaCampos:
 
 ### 🤖 Inteligência Artificial & Automação
 <div align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs_%26_Prompt_Engineering-00D9FF?style=for-the-badge&logo=robot&logoColor=white"/>
 </div>
 
 ---
 
+## 💼 Experiência Atual
+
+### 🏢 Prodemge — Estagiário de Desenvolvimento de Software `jul/2026 – atual`
+> Atuação na **Gerência de Arquitetura Corporativa (GAC)**, desenvolvendo soluções de Inteligência Artificial para atendimento via WhatsApp Business. Backend em Java + Spring Boot, integração com APIs de IA, Chatwoot e CA Service Desk Manager (SDM), modelagem de regras de negócio e integração com bancos relacionais.
+
+`Java` `Spring Boot` `REST APIs` `SQL` `Chatwoot` `Metodologias Ágeis`
+
+---
+
 ## 🚀 Projetos em Destaque
+
+### 🎨 Prismae — Site Institucional
+> Desenvolvimento e redesign visual completo (glassmorphism + gradientes RGB) do site da agência Prismae, incluindo componentes React reutilizáveis, modais via Portals e deploy contínuo no GitHub Pages.
+
+`React` `Vite` `GitHub Pages`
 
 ### 🏭 Prisma Software Factory — CEFET-MG `2025`
 > Desenvolvimento de soluções de software para a ONG **INASIM**, atendendo demandas educacionais e administrativas. Validado como **TCC + Estágio Obrigatório**.
 
 `TypeScript` `React + Vite` `Python (Flask)` `PostgreSQL`
-
----
 
 ### 📋 SIGEPP — Sistema Integrado de Gestão de Estágios e Pesquisas `2024`
 > Sistema completo para gestão de estágios e projetos de pesquisa acadêmica no CEFET-MG. Backend robusto com interface responsiva integrada.
@@ -121,7 +134,7 @@ class KauaCampos:
 
 ```
 🤖 Inteligência Artificial aplicada ao desenvolvimento
-🔌 APIs de IA — OpenAI, Anthropic (Claude), Google Gemini
+🔌 APIs de IA — Anthropic (Claude), OpenAI, Google Gemini
 ⚙️  n8n — automações e workflows inteligentes
 🧩 Estruturas de Dados e Algoritmos
 🏗️  Arquitetura de Sistemas Escaláveis
@@ -146,9 +159,11 @@ timeline
                  : Java COMPLETO OOP — Udemy (54,5h)
                  : Python Avançado — IFMG (40h)
                  : Técnico em Informática concluído
-    2025 ~ Hoje  : Graduando em ADS @ PUC-MG
+    2025 ~ 2026  : Graduando em ADS @ PUC-MG
                  : Explorando IA, LLMs e APIs inteligentes
-                 : Buscando primeira oportunidade profissional
+    2026 ~ Hoje  : Estagiário de Dev. de Software @ Prodemge (GAC)
+                 : Soluções de IA para WhatsApp Business
+                 : Java, Spring Boot, integrações com IA
     Futuro       : Desenvolvedor FullStack/Backend Pleno
                  : Sistemas com IA embarcada e alto impacto
 ```
@@ -165,7 +180,6 @@ timeline
 | Python Avançado | IFMG | 40h | Out/2025 |
 
 ---
-
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/22kxQ12cxyEww/giphy.gif"/>
