@@ -149,11 +149,6 @@ class KauaCampos:
 
 `Java Spring Boot` `PostgreSQL` `HTML/CSS/JS`
 
-### 📚 EducaMais (Educa+)
-> Plataforma web acadêmica para doação e troca de materiais educacionais, nascida da exploração de ideias ligadas aos ODS da ONU. Documentação formal completa com personas, user stories, requisitos funcionais/não-funcionais e diagramas de caso de uso.
-
-`Documentação de Software` `UX Research`
-
 ---
 
 ## 📊 GitHub em números
