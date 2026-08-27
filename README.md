@@ -52,7 +52,8 @@ class KauaCampos:
             "APIs de IA (Claude, OpenAI, Gemini)",
             "n8n & automações com IA",
             "Arquitetura de Sistemas Escaláveis",
-            "Estruturas de Dados e Algoritmos"
+            "Estruturas de Dados e Algoritmos",
+            "C# (aprofundamento)"
         ]
         self.soft_skills = ["Trabalho em equipe", "Comunicação", "Adaptabilidade"]
 
@@ -66,7 +67,7 @@ class KauaCampos:
 
 ### 💬 Linguagens
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,php,lua&theme=dark" />
 </div>
 
 ### ⚙️ Frameworks & Bibliotecas
@@ -88,6 +89,7 @@ class KauaCampos:
 <div align="left">
   <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs_%26_Prompt_Engineering-00D9FF?style=for-the-badge&logo=robot&logoColor=white"/>
 </div>
@@ -97,13 +99,40 @@ class KauaCampos:
 ## 💼 Experiência Atual
 
 ### 🏢 Prodemge — Estagiário de Desenvolvimento de Software `jul/2026 – atual`
-> Atuação na **Gerência de Arquitetura Corporativa (GAC)**, desenvolvendo soluções de Inteligência Artificial para atendimento via WhatsApp Business. Backend em Java + Spring Boot, integração com APIs de IA, Chatwoot e CA Service Desk Manager (SDM), modelagem de regras de negócio e integração com bancos relacionais.
+> Atuação na **Gerência de Arquitetura Corporativa (GAC)**, desenvolvendo soluções de Inteligência Artificial para atendimento via WhatsApp Business. Backend em Java + Spring Boot, integração com APIs de IA (Claude via LangChain4j), Chatwoot, SERPRO e CA Service Desk Manager (SDM), modelagem de regras de negócio e integração com bancos relacionais.
 
-`Java` `Spring Boot` `REST APIs` `SQL` `Chatwoot` `Metodologias Ágeis`
+`Java` `Spring Boot` `LangChain4j` `REST APIs` `SQL` `Chatwoot` `Metodologias Ágeis`
+
+**Destaque — GPH1/PATI:** chatbot Java para WhatsApp que integra SERPRO, SDM e Claude Haiku via LangChain4j, com autenticação por telefone, consulta e comentário em tickets, deploy em ambiente de homologação e documentação técnica formal (ABNT).
 
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🐉 Dragon Farmer — Roblox Tycoon Game
+> Jogo de coleta e fazenda de dragões no Roblox, com repositório conectado ao Roblox Studio via Rojo. Arquitetura server-authoritative (Services/Systems no ServerScriptService, configs compartilhadas no ReplicatedStorage) e documento estratégico de produto definindo o game loop (comprar dragão → produzir ovos → vender → ouro → merge → ascender).
+
+`Lua` `Roblox Studio` `Rojo` `Game Design`
+
+### 🛰️ RastroLog — Sistema de Rastreamento Logístico
+> Sistema multi-página em JavaScript puro publicado no GitHub Pages: design system próprio, CRUD com localStorage, controle de acesso por papéis, dashboard com Canvas e transições de página nativas (Cross-Document View Transitions).
+
+`JavaScript` `HTML/CSS` `LocalStorage` `GitHub Pages`
+
+### 📦 NEXUS — Sistema de Gestão de Estoque
+> Sistema de inventário com fluxos completos de requisição de usuários e documentação de atualizações geradas para o projeto.
+
+`PHP` `MySQL`
+
+### 📈 NeuroFlow Analytics
+> Plataforma de análise de estudos com documentação arquitetural completa: contratos de API, migrações Flyway e plano de implementação de MVP.
+
+`Spring Boot` `React` `Flyway`
+
+### 💬 ProConecta
+> Rebrand white-label do Chatwoot: substituição completa da paleta de cores (vermelho `#DC141C`), ambiente de desenvolvimento local em Docker (Windows/WSL2) e documentação funcional detalhada com screenshots de produção.
+
+`Docker` `WSL2` `Chatwoot`
 
 ### 🎨 Prismae — Site Institucional
 > Desenvolvimento e redesign visual completo (glassmorphism + gradientes RGB) do site da agência Prismae, incluindo componentes React reutilizáveis, modais via Portals e deploy contínuo no GitHub Pages.
@@ -120,6 +149,11 @@ class KauaCampos:
 
 `Java Spring Boot` `PostgreSQL` `HTML/CSS/JS`
 
+### 📚 EducaMais (Educa+)
+> Plataforma web acadêmica para doação e troca de materiais educacionais, nascida da exploração de ideias ligadas aos ODS da ONU. Documentação formal completa com personas, user stories, requisitos funcionais/não-funcionais e diagramas de caso de uso.
+
+`Documentação de Software` `UX Research`
+
 ---
 
 ## 📊 GitHub em números
@@ -135,11 +169,13 @@ class KauaCampos:
 ```
 🤖 Inteligência Artificial aplicada ao desenvolvimento
 🔌 APIs de IA — Anthropic (Claude), OpenAI, Google Gemini
+🔗 LangChain4j — orquestração de LLMs em Java
 ⚙️  n8n — automações e workflows inteligentes
 🧩 Estruturas de Dados e Algoritmos
 🏗️  Arquitetura de Sistemas Escaláveis
 ⚛️  React + Vite (aprofundamento)
 ☕  APIs RESTful com Spring Boot
+🎮 C# — aprofundamento
 ```
 
 ---
@@ -162,8 +198,10 @@ timeline
     2025 ~ 2026  : Graduando em ADS @ PUC-MG
                  : Explorando IA, LLMs e APIs inteligentes
     2026 ~ Hoje  : Estagiário de Dev. de Software @ Prodemge (GAC)
-                 : Soluções de IA para WhatsApp Business
-                 : Java, Spring Boot, integrações com IA
+                 : Soluções de IA para WhatsApp Business (GPH1/PATI)
+                 : Java, Spring Boot, LangChain4j, integrações com IA
+                 : Projetos paralelos — RastroLog, NEXUS, NeuroFlow, ProConecta, Dragon Farmer
+                 : Estudo de C# e Lua
     Futuro       : Desenvolvedor FullStack/Backend Pleno
                  : Sistemas com IA embarcada e alto impacto
 ```
